@@ -70,3 +70,4 @@
 <img src="https://raw.githubusercontent.com/13virat/13virat/output/snake.svg" alt="Snake animation" />
 
 ###
+![snake gif](https://github.com/13virat/13virat/blob/output/github-contribution-grid-snake.gif)
