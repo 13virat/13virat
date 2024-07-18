@@ -71,3 +71,11 @@
 
 ###
 ![snake gif](https://github.com/13virat/13virat/blob/output/github-contribution-grid-snake.gif)
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/13virat/count.svg?"  />
+</div>
+
+###
