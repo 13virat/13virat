@@ -1,7 +1,8 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F78C6C&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Virat+Gupta!;Full-Stack+Dev+%E2%9C%94+UI%2FUX+Designer+%E2%9C%94;Creating+Better+Code+%2B+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F78C6C&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Virat+Gupta!;Full-Stack+Dev+%E2%9C%94+UI%2FUX+Designer+%E2%9C%94;Creating+Better+Code+%2B+Experiences" alt="Typing SVG" />
 </p>
+
 
 <h1 align="center">🚀 Full-Stack Developer | 🎨 UI/UX Designer</h1>
 
@@ -22,8 +23,13 @@
 ---
 
 🧰 My Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=js,react,redux,bootstrap,css" height="40" /> <br /> <img src="https://skillicons.dev/icons?i=python,django,java,mysql,postgres" height="40" /> <br /> <img src="https://skillicons.dev/icons?i=github,figma,photoshop,illustrator,vscode" height="40" /> </p>
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,redux,bootstrap,css&perline=5" height="45" style="margin: 10px;" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=python,django,java,mysql,postgres&perline=5" height="45" style="margin: 10px;" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=github,figma,photoshop,illustrator,vscode&perline=5" height="45" style="margin: 10px;" />
+</p>
 
 ---
 
