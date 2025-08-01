@@ -1,91 +1,92 @@
-<h2 align="center">Hi 👋, I'm Virat Gupta, blending code and creativity as a Full-Stack Developer & UI/UX Designer!</h2>
+<!-- Profile Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F78C6C&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Virat+Gupta!;Full-Stack+Dev+%E2%9C%94+UI%2FUX+Designer+%E2%9C%94;Creating+Better+Code+%2B+Experiences" alt="Typing SVG" />
+</p>
 
-###
+<h1 align="center">🚀 Full-Stack Developer | 🎨 UI/UX Designer</h1>
+
+---
+
+<!-- 🔥 Fiery Charmander coding -->
+<img align="right" src="https://miro.medium.com/v2/resize:fit:1160/format:webp/1*JXr6YRhuxirq9Bq99SmpVA.gif" height="260" alt="Ditto coding" />
+
+
+### 👨‍💻 About Me
+
+- 🌐 Full-stack engineer with design muscle  
+- 🎯 Passionate about clean code, performance & accessibility  
+- 🧠 Learning AI/ML integration with UI workflows  
+- 📌 Building personal projects that *actually solve things*  
+- ⚡ Fun fact: I sketch interfaces before coding them
+
+---
+
+🧰 My Stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=js,react,redux,bootstrap,css" height="40" /> <br /> <img src="https://skillicons.dev/icons?i=python,django,java,mysql,postgres" height="40" /> <br /> <img src="https://skillicons.dev/icons?i=github,figma,photoshop,illustrator,vscode" height="40" /> </p>
+
+
+---
+
+### 📈 GitHub Stats
 
 <div align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=13virat&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=13virat&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=13virat&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-<!--   <img src="https://github-profile-trophy.vercel.app?username=13virat&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  /> -->
-
+  <img src="https://github-readme-stats.vercel.app/api?username=13virat&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=13virat&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="150" />
 </div>
 
-###
-
-<img align="right" height="300" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="apple logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webflow/webflow-original.svg" height="40" alt="webflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
-  
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=13virat&theme=tokyonight&hide_border=true&border_radius=12" height="150"/>
 </div>
 
-###
+---
 
-<div align="left">
+### 💼 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h4>🧠 Contract Comparison App</h4>
+      <p>Compare contracts & get clause-wise LLM summaries (Django + Ollama).</p>
+      <a href="https://github.com/13virat/ContractChecker">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=13virat&repo=ContractChecker&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h4>🌉 SkillBridge</h4>
+      <p>Skill exchange platform with chat, matchmaking, & gamified learning.</p>
+      <a href="https://github.com/13virat/skillbridge">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=13virat&repo=skillbridge&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="left">
   <a href="https://instagram.com/uiquest" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
-  <a href="imailvirat@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="mailto:imailvirat@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/viratg" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-</div>
+  <a href="https://dribbble.com/13virat" target="_blank">
+    <img src="https://img.shields.io/badge/Dribbble-%23EA4C89.svg?style=for-the-badge&logo=dribbble&logoColor=white"/>
+  </a>
+  <a href="https://codepen.io/13virat" target="_blank">
+    <img src="https://img.shields.io/badge/CodePen-%23131417.svg?style=for-the-badge&logo=codepen&logoColor=white"/>
+  </a>
+</p>
 
-###
+---
 
-<br clear="both">
+### 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/13virat/13virat/output/snake.svg" alt="Snake animation" />
-
-###
-![snake gif](https://github.com/13virat/13virat/blob/output/github-contribution-grid-snake.gif)
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/13virat/count.svg?"  />
-</div>
-
-###
+<p align="center">
+  <img src="https://raw.githubusercontent.com/13virat/13virat/output/snake.svg" alt="snake animation"/>
+</p>
